@@ -1,0 +1,4 @@
+com\hry\spring\log\TestApplication.class
+com\hry\spring\log\entity\UserEntity.class
+com\hry\spring\log\controller\UserController.class
+com\hry\spring\log\jpa\UserJPA.class
